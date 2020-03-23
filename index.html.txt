@@ -1,2 +1,2 @@
-~$ cd chadiatie.github.io
-~$ echo "Hello World" >index.html
+~ $ cd chadiatie.github.io
+~ $ echo "Hello World" >index.html
